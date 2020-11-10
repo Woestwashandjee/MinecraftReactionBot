@@ -23,7 +23,7 @@ if __name__ == "__main__":
             time.sleep(0.1)
             keyboard.press_and_release('t')
             time.sleep(0.5)
-            keyboard.write('fast as fck boiis')
+            keyboard.write('faster than you :D')
             time.sleep(0.5)
             keyboard.press_and_release('enter')
             time.sleep(0.5)
